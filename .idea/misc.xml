@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/activity_select_sinper.xml" value="0.1" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/buttom_sheet_dialgo_select_sinper.xml" value="0.1" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/item_select_sinper.xml" value="0.1" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinpe35r.xml" value="0.15537059056678557" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper.xml" value="0.1" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper1.xml" value="0.1" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper10.xml" value="0.1545778834720571" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper11.xml" value="0.15537059056678557" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper12.xml" value="0.15537059056678557" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper13.xml" value="0.15537059056678557" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper14.xml" value="0.1545778834720571" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper15.xml" value="0.15537059056678557" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper16.xml" value="0.1545778834720571" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper17.xml" value="0.1545778834720571" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper18.xml" value="0.1545778834720571" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper19.xml" value="0.1545778834720571" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper2.xml" value="0.1" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper20.xml" value="0.15537059056678557" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper21.xml" value="0.1545778834720571" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper22.xml" value="0.15537059056678557" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper23.xml" value="0.1545778834720571" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper24.xml" value="0.1545778834720571" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper25.xml" value="0.1545778834720571" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper26.xml" value="0.1545778834720571" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper27.xml" value="0.1545778834720571" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper28.xml" value="0.1545778834720571" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper29.xml" value="0.15537059056678557" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper3.xml" value="0.1" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper30.xml" value="0.1545778834720571" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper31.xml" value="0.1545778834720571" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper32.xml" value="0.1545778834720571" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper33.xml" value="0.15537059056678557" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper34.xml" value="0.15537059056678557" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper4.xml" value="0.1" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper5.xml" value="0.1" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper6.xml" value="0.1" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper7.xml" value="0.15537059056678557" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper8.xml" value="0.1545778834720571" />
+        <entry key="..\:/Users/mohsen/AndroidStudioProjects/BigZoom/app/src/main/res/layout/sinper9.xml" value="0.15537059056678557" />
+        <entry key="..\:/Users/mohsen/Documents/Apps Android/BigZoom/app/src/main/res/layout/activity_main.xml" value="0.12914398812469075" />
+        <entry key="..\:/Users/mohsen/Documents/Apps Android/BigZoom/app/src/main/res/layout/activity_select_sinper.xml" value="0.1" />
+        <entry key="..\:/Users/mohsen/Documents/Apps Android/BigZoom/app/src/main/res/layout/item_select_sinper.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
