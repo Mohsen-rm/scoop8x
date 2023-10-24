@@ -340,12 +340,12 @@ public class MainActivity extends AppCompatActivity implements ImageAnalysis.Ana
                         new VideoCapture.OnVideoSavedCallback() {
                             @Override
                             public void onVideoSaved(@NonNull VideoCapture.OutputFileResults outputFileResults) {
-                                Toast.makeText(MainActivity.this, "Video has been saved successfully.", Toast.LENGTH_SHORT).show();
+                                //Toast.makeText(MainActivity.this, "Video has been saved successfully.", Toast.LENGTH_SHORT).show();
                             }
 
                             @Override
                             public void onError(int videoCaptureError, @NonNull String message, @Nullable Throwable cause) {
-                                Toast.makeText(MainActivity.this, "Error saving video: " + message, Toast.LENGTH_SHORT).show();
+                                //Toast.makeText(MainActivity.this, "Error saving video: " + message, Toast.LENGTH_SHORT).show();
                             }
                         }
                 );
@@ -375,12 +375,12 @@ public class MainActivity extends AppCompatActivity implements ImageAnalysis.Ana
                 new ImageCapture.OnImageSavedCallback() {
                     @Override
                     public void onImageSaved(@NonNull ImageCapture.OutputFileResults outputFileResults) {
-                        Toast.makeText(MainActivity.this, "Photo has been saved successfully.", Toast.LENGTH_SHORT).show();
+                        //Toast.makeText(MainActivity.this, "Photo has been saved successfully.", Toast.LENGTH_SHORT).show();
                     }
 
                     @Override
                     public void onError(@NonNull ImageCaptureException exception) {
-                        Toast.makeText(MainActivity.this, "Error saving photo: " + exception.getMessage(), Toast.LENGTH_SHORT).show();
+                        //Toast.makeText(MainActivity.this, "Error saving photo: " + exception.getMessage(), Toast.LENGTH_SHORT).show();
                     }
                 }
         );

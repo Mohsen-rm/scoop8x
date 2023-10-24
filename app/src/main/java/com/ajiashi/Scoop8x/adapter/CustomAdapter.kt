@@ -40,7 +40,7 @@ class CustomAdapter(private val mList: List<ItemsViewModel>) : RecyclerView.Adap
             data.setIs_Voice(true)
             data.setUrl_voice(itemMode.url_voice)
 
-            Toast.makeText(holder.itemView.context,"Yes Select"+itemMode.url_voice,Toast.LENGTH_LONG).show()
+//            Toast.makeText(holder.itemView.context,"Yes Select"+itemMode.url_voice,Toast.LENGTH_LONG).show()
 //            val intent = Intent(holder.itemView.context, MainActivity::class.java)
 //            holder.itemView.context.startActivity(intent)
             (holder.itemView.context as Activity).finish()
